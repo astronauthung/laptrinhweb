@@ -68,14 +68,9 @@
                                 <a onclick="return confirm('Do you want to cancel this order...?')" class="btn btn-danger" href="{{url('cancel_order', $order->id)}}">Cancel</a>
                             </td>
                             @endif
-
-
                         </tr>
-
-
                         @endforeach
                     </tbody>
-
                 </table>
             </div>
         </div>

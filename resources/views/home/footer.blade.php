@@ -4,7 +4,7 @@
             <div class="col-md-4">
                 <div class="full">
                     <div class="logo_footer">
-                        <a href="#"><img width="210" src="home/images/logo.png" alt="#" /></a>
+                        <a href="#"><img src="home/images/logo.svg" alt="#" /></a>
                     </div>
                     <div class="information_f">
                         <p><strong>ADDRESS: </strong> 470 Tran Dai Nghia, Hoa Hai, Ngu Hanh Son, Da Nang</p>

@@ -1,11 +1,11 @@
 <section class="slider_section ">
     <div class="slider_bg_box">
-        <img src="home/images/bckg-1.jpg" alt="">
+        <img src="home/images/soap-hd-crop.jpg" alt="">
     </div>
     <div id="customCarousel1" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="container ">
+                <div class="container">
                     <div class="row">
                         <div class="col-md-7 col-lg-6 ">
                             <div class="detail-box">
@@ -29,8 +29,9 @@
                     </div>
                 </div>
             </div>
-            <div class="carousel-item ">
-                <div class="container ">
+            {{-- <div class="carousel-item ">
+                <img src="home/images/bckg-2.jpg" alt="" class="d-block w-100">
+                <div class="carousel-caption container">
                     <div class="row">
                         <div class="col-md-7 col-lg-6 ">
                             <div class="detail-box">
@@ -55,7 +56,8 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="container ">
+                <img src="home/images/bckg-3.jpg" alt="" class="d-block w-100">
+                <div class="carousel-caption container">
                     <div class="row">
                         <div class="col-md-7 col-lg-6 ">
                             <div class="detail-box">
@@ -78,14 +80,14 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
-        <div class="container">
+        {{-- <div class="container">
             <ol class="carousel-indicators">
                 <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
                 <li data-target="#customCarousel1" data-slide-to="1"></li>
                 <li data-target="#customCarousel1" data-slide-to="2"></li>
             </ol>
-        </div>
+        </div> --}}
     </div>
 </section>
