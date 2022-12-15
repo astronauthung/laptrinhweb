@@ -28,7 +28,7 @@
 
 
   <div class="details container" style="font-family:'Trebuchet MS';">
-    <h1 style="text-align: center; font-size: 30px">
+    <h1 style="text-align: center; font-size: 35px">
       <b>Product details</b>
     </h1>
     <div class="row p-5" style="height: 100vh">
