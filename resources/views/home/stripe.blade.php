@@ -10,7 +10,7 @@
 <div class="container pt-3">
     
     
-    <h1 class="text-center">Myron Stores Payment Section <br/>Payable = ${{$totalPrice}}</h1>
+    <h1 class="text-center">Cranchies Stores Payment Section <br/>Payable = ${{$totalPrice}}</h1>
     
     <div class="row">
         <div class="col-md-6 col-md-offset-3">

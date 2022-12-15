@@ -7,9 +7,9 @@
                         <a href="#"><img width="210" src="home/images/logo.png" alt="#" /></a>
                     </div>
                     <div class="information_f">
-                        <p><strong>ADDRESS:</strong> 28 White tower, Street Name New York City, USA</p>
-                        <p><strong>TELEPHONE:</strong> +91 987 654 3210</p>
-                        <p><strong>EMAIL:</strong> yourmain@gmail.com</p>
+                        <p><strong>ADDRESS: </strong> 470 Tran Dai Nghia, Hoa Hai, Ngu Hanh Son, Da Nang</p>
+                        <p><strong>TELEPHONE: </strong> +84 789 190903</p>
+                        <p><strong>EMAIL: </strong>vku@vku.udn.vn</p>
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                     </div>
                     <div class="col-md-5">
                         <div class="widget_menu">
-                            <h3>Newsletter</h3>
+                            <h3>News Letter</h3>
                             <div class="information_f">
                                 <p>Subscribe by our newsletter and get update protidin.</p>
                             </div>

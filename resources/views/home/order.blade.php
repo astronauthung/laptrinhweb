@@ -82,7 +82,7 @@
     </div>
 
     <div class="cpy_">
-        <p class="mx-auto">© 2021 All Rights Reserved By Myron Stores
+        <p class="mx-auto">© 2022 All Rights Reserved By 21SE1
 
         </p>
     </div>
