@@ -11,7 +11,7 @@
                             <div class="detail-box">
                                 <h1 style="color: white;">
                                     <span>
-                                        Sale 20% Off
+                                        Merry Christmas
                                     </span>
                                     <br>
                                     On Everything
