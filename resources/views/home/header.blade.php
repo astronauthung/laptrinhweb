@@ -12,7 +12,7 @@
       </button>
       <div></div>
       <div style="margin: 0 auto" id="navbarSupportedContent">
-        <ul class="navbar-nav">
+        {{-- <ul class="navbar-nav">
           <li class="nav-item active">
             <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></a>
           </li>
@@ -41,7 +41,7 @@
             <a class="nav-link" href="{{ url('view_cart') }}">
 
             </a>
-          </li>
+          </li> --}}
           <form class="form-inline">
             <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
               <i class="fa fa-search" aria-hidden="true"></i>
