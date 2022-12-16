@@ -66,7 +66,6 @@
                         <a class="btn btn-outline-warning btn-sm" href="{{ route('register') }}">Register</a>
                     </li>
                     @endauth
-
                     @endif
                 </ul>
             </div>
