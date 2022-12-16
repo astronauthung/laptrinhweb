@@ -11,11 +11,7 @@
                             <div class="detail-box">
                                 <h1 style="color: white;">
                                     <span>
-<<<<<<< HEAD
                                         Merry Christmas
-=======
-                                        Sale 20% Off
->>>>>>> 8371016 (Fix product details page.)
                                     </span>
                                     <br>
                                     On Everything
