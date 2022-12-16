@@ -175,19 +175,11 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-<<<<<<< HEAD
-  color: #005C43;
-}
-
-.custom_nav-container .navbar-nav .nav-item:hover .nav-link svg, .custom_nav-container .navbar-nav .nav-item.active .nav-link svg {
-  fill: #005C43;
-=======
   color: #f7444e;
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link svg, .custom_nav-container .navbar-nav .nav-item.active .nav-link svg {
   fill: #f7444e;
->>>>>>> 8371016 (Fix product details page.)
 }
 
 .custom_nav-container .nav_search-btn {
@@ -199,11 +191,7 @@ a:focus {
 }
 
 .custom_nav-container .nav_search-btn:hover {
-<<<<<<< HEAD
-  color: #005C43;
-=======
   color: #f7444e;
->>>>>>> 8371016 (Fix product details page.)
 }
 
 .custom_nav-container .navbar-toggler {
@@ -515,23 +503,14 @@ a:focus {
 }
 
 .product_section .options .option1 {
-<<<<<<< HEAD
-  background-color: #005C43;
-  border: 1px solid #005C43;
-=======
   background-color: #f7444e;
   border: 1px solid #f7444e;
->>>>>>> 8371016 (Fix product details page.)
   color: #ffffff;
 }
 
 .product_section .options .option1:hover {
   background-color: transparent;
-<<<<<<< HEAD
-  color: #005C43;
-=======
   color: #f7444e;
->>>>>>> 8371016 (Fix product details page.)
 }
 
 .product_section .options .option2 {
@@ -558,13 +537,8 @@ a:focus {
 .product_section .btn-box a {
   display: inline-block;
   padding: 10px 40px;
-<<<<<<< HEAD
-  background-color: #005C43;
-  border: 1px solid #005C43;
-=======
   background-color: #f7444e;
   border: 1px solid #f7444e;
->>>>>>> 8371016 (Fix product details page.)
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -573,11 +547,7 @@ a:focus {
 
 .product_section .btn-box a:hover {
   background-color: transparent;
-<<<<<<< HEAD
-  color: #005C43;
-=======
   color: #f7444e;
->>>>>>> 8371016 (Fix product details page.)
 }
 
 .arrival_section .heading_container {
@@ -611,13 +581,8 @@ a:focus {
 .arrival_section a {
   display: inline-block;
   padding: 10px 45px;
-<<<<<<< HEAD
-  background-color: #005C43;
-  border: 1px solid #005C43;
-=======
   background-color: #f7444e;
   border: 1px solid #f7444e;
->>>>>>> 8371016 (Fix product details page.)
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all 0.3s;
@@ -626,11 +591,7 @@ a:focus {
 
 .arrival_section a:hover {
   background-color: transparent;
-<<<<<<< HEAD
-  color: #005C43;
-=======
   color: #f7444e;
->>>>>>> 8371016 (Fix product details page.)
 }
 
 .why_section .box {
