@@ -1,7 +1,7 @@
 <nav id="sidebar" class="sidebar js-sidebar">
     <div class="sidebar-content js-simplebar">
         <a class="sidebar-brand" href="{{url('/')}}">
-            <span class="align-middle">Myron Stores</span>
+            <span class="align-middle">Cranchies Stores</span>
         </a>
 
         <ul class="sidebar-nav">

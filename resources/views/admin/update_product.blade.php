@@ -12,7 +12,7 @@
 
     <link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-    <title>Myron-Ecommerce-Admin</title>
+    <title>Cranchies Stores - Admin</title>
 
     <link rel="shortcut icon" href="{{ asset('admin/img/icons/icon-48x48.png') }}" />
     <link href="{{ asset('admin/css/app.css') }}" rel="stylesheet">
