@@ -27,9 +27,6 @@
         <!-- end product section -->
      
     </div>
-   
-    
-
     <!-- footer start -->
     @include('home.footer')
     <!-- footer end -->
