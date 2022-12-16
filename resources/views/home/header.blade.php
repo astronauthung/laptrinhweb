@@ -10,6 +10,7 @@
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class=""> </span>
       </button>
+      <div></div>
       <div style="margin: 0 auto" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item active">
