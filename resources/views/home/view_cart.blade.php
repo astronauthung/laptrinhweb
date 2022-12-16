@@ -11,7 +11,7 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Myron Stores</title>
+    <title>Cranchies Stores</title>
     @include('home.css')
     <style>
         .font {
@@ -79,12 +79,7 @@
                 </div>
             </div>
         </div>
-
-
     </div>
-
-
-
     <div class="cpy_" style="position: relative; top:175px;">
         <p class="mx-auto">© 2022 All Rights Reserved By 21SE1
 

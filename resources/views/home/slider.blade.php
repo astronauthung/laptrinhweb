@@ -11,7 +11,7 @@
               <div class="detail-box">
                 <h1 style="color: white;">
                   <span>
-                    Sale 20% Off
+                    Merry Christmas
                   </span>
                   <br>
                   On Everything
@@ -31,7 +31,11 @@
           </div>
         </div>
       </div>
-      {{-- <div class="carousel-item ">
+    </div>
+  </div>
+  </div>
+  </div>
+  {{-- <div class="carousel-item ">
                 <img src="home/images/bckg-2.jpg" alt="" class="d-block w-100">
                 <div class="carousel-caption container">
                     <div class="row">
@@ -83,8 +87,8 @@
                     </div>
                 </div>
             </div> --}}
-    </div>
-    {{-- <div class="container">
+  </div>
+  {{-- <div class="container">
             <ol class="carousel-indicators">
                 <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
                 <li data-target="#customCarousel1" data-slide-to="1"></li>

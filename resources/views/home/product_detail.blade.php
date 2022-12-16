@@ -12,7 +12,7 @@
   <meta name="keywords" content="" />
   <meta name="description" content="" />
   <meta name="author" content="" />
-  <title>Myron Stores</title>
+  <title>Cranchies Stores</title>
   @include('home.css')
   <style>
   .font {

@@ -29,25 +29,30 @@
     <!-- end product section -->
 
   </div>
-
-
-
   <!-- footer start -->
   @include('home.footer')
   <!-- footer end -->
   <div class="cpy_">
     <p class="mx-auto">© 2022 All Rights Reserved By 21SE1
 
-    </p>
-  </div>
-  <!-- jQery -->
-  <script src="home/js/jquery-3.4.1.min.js"></script>
-  <!-- popper js -->
-  <script src="home/js/popper.min.js"></script>
-  <!-- bootstrap js -->
-  <script src="home/js/bootstrap.js"></script>
-  <!-- custom js -->
-  <script src="home/js/custom.js"></script>
+
+
+      <!-- footer start -->
+      @include('home.footer')
+      <!-- footer end -->
+    <div class="cpy_">
+      <p class="mx-auto">© 2022 All Rights Reserved By 21SE1
+
+      </p>
+    </div>
+    <!-- jQery -->
+    <script src="home/js/jquery-3.4.1.min.js"></script>
+    <!-- popper js -->
+    <script src="home/js/popper.min.js"></script>
+    <!-- bootstrap js -->
+    <script src="home/js/bootstrap.js"></script>
+    <!-- custom js -->
+    <script src="home/js/custom.js"></script>
 </body>
 
 </html>
