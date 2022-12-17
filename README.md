@@ -1,4 +1,4 @@
-# ReadmeGen
+# Read Me
 ### Installation
 ```
 1.Go to your directory and open command prompt
