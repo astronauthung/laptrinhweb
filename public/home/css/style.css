@@ -57,6 +57,16 @@ h2 {
     margin-bottom: 0;
     font-size: 3.5rem;
     font-weight: bold;
+
+    color: #002c3e;
+}
+.heading_container .wswus {
+    position: relative;
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+
+    color: #005c43;
 }
 
 .heading_container h2::after {
@@ -281,6 +291,9 @@ a:focus {
     margin-bottom: 15px;
     color: #002c3e;
     line-height: 70px;
+
+    text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff,
+             1px 1px #fff, -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
 }
 
 .slider_section .detail-box h1 span {
@@ -288,8 +301,8 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-    font-size: 16px;
-    margin-top: 20px;
+    font-size: 21px;
+    margin-top: 40px;
     margin-bottom: 1.5rem;
 }
 
@@ -307,8 +320,8 @@ a:focus {
 }
 
 .slider_section .detail-box a:hover {
-    background-color: transparent;
-    color: #005c43;
+    background-color: #005c446a;
+    color: #ffffff;
 }
 
 .slider_section .img-box img {
@@ -574,7 +587,7 @@ a:focus {
 .why_section .box {
     text-align: center;
     margin-top: 45px;
-    background-color: #002c3e;
+    background-color: #005476;
     padding: 45px 50px;
     border-radius: 5px;
     color: #ffffff;

@@ -37,7 +37,7 @@
                         @csrf
                         <input type="text" class="form-control" name="search" placeholder="Search item">
 
-                        <input style="background-color: navy; color:white" type="submit" class="btn btn-primary " value="Search">
+                        <input style="background-color: #005C43; color:white" type="submit" class="btn btn-primary " value="Search">
                     </form>
 
                     <div class="col-12 d-flex">

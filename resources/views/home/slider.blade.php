@@ -9,17 +9,15 @@
           <div class="row">
             <div class="col-md-7 col-lg-6 ">
               <div class="detail-box">
-                <h1 style="color: white;">
+                <h1 style="color: rgb(243, 90, 90);">
                   <span>
                     Merry Christmas
                   </span>
                   <br>
-                  On Everything
+                  Sale off Everything
                 </h1>
                 <p style="color: white;">
-                  Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid
-                  error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat
-                  modi impedit sequi.
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error dolor, distinctio autem nihil numquam quidem recusandae? Ea, praesentium ad laborum reiciendis sapiente ipsa tempora! Nisi aliquam eveniet dicta quia hic?
                 </p>
                 <div class="btn-box">
                   <a href="" class="btn1">
