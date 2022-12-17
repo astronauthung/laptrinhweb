@@ -35,9 +35,6 @@
         <h3 class="">Product Amount: {{$order->price}}</h3>
         <h3 class="">Product ID: {{$order->product_id}}</h3>
         <h3 class="">Payment Status: {{$order->payment_status}}</h3>
-
-
-
     </div>
 </body>
 
