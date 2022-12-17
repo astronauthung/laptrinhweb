@@ -57,6 +57,16 @@ h2 {
     margin-bottom: 0;
     font-size: 3.5rem;
     font-weight: bold;
+
+    color: #002c3e;
+}
+.heading_container .wswus {
+    position: relative;
+    margin-bottom: 0;
+    font-size: 3.5rem;
+    font-weight: bold;
+
+    color: #005c43;
 }
 
 .heading_container h2::after {
@@ -577,7 +587,7 @@ a:focus {
 .why_section .box {
     text-align: center;
     margin-top: 45px;
-    background-color: #002c3e;
+    background-color: #005476;
     padding: 45px 50px;
     border-radius: 5px;
     color: #ffffff;

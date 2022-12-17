@@ -1,7 +1,7 @@
 <section class="why_section layout_padding">
     <div class="container">
         <div class="heading_container heading_center">
-            <h2>
+            <h2 class="wswus">
                 Why Shop With Us
             </h2>
         </div>
