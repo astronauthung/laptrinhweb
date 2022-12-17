@@ -16,7 +16,7 @@
 <body>
     <div class="order">
 
-        <h1 style="background: navy; color:white; padding:.3em 1em; ">Myron Stores</h1>
+        <h1 style="background: navy; color:white; padding:.3em 1em; ">Cranchies Stores</h1>
 
         <h2>Order Details</h2>
 

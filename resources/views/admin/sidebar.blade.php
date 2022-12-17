@@ -32,49 +32,6 @@
                     <i class="align-middle" data-feather="log-in"></i> <span class="align-middle">Orders</span>
                 </a>
             </li>
-
-            <!-- <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="pages-sign-up.html">
-                    <i class="align-middle" data-feather="user-plus"></i> <span class="align-middle">Sign Up</span>
-                </a>
-            </li>
-
-            <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="pages-blank.html">
-                    <i class="align-middle" data-feather="book"></i> <span class="align-middle">Blank</span>
-                </a>
-            </li>
-
-
-            <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="ui-buttons.html">
-                    <i class="align-middle" data-feather="square"></i> <span class="align-middle">Buttons</span>
-                </a>
-            </li>
-
-            <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="ui-forms.html">
-                    <i class="align-middle" data-feather="check-square"></i> <span class="align-middle">Forms</span>
-                </a>
-            </li>
-
-            <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="ui-cards.html">
-                    <i class="align-middle" data-feather="grid"></i> <span class="align-middle">Cards</span>
-                </a>
-            </li>
-
-
-
-            <li class="sidebar-item">
-                <a class="sidebar-link d-flex" href="icons-feather.html">
-                    <i class="align-middle" data-feather="coffee"></i> <span class="align-middle">Icons</span>
-                </a>
-            </li> -->
-
-
         </ul>
-
-
     </div>
 </nav>
