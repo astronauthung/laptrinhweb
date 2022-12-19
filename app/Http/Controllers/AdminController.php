@@ -152,12 +152,8 @@ class AdminController extends Controller
 
     //display product
     public function view_product(){
-
-
         if (Auth::id()) {
-
             $usertype = Auth::user()->usertype;
-
             if ($usertype == '1') {
 
                 $products = product::all();
@@ -173,8 +169,6 @@ class AdminController extends Controller
             return redirect('/');
         }
     }
-
-
     //add product page
     public function add_product(){
 
@@ -182,8 +176,7 @@ class AdminController extends Controller
 
         return view('admin.add_products', compact('data'));
     }
-       
-    //add product functions
+    //add product functionsxam
     public function addAllProducts(Request $request){
 
         $data = new product();
@@ -195,7 +188,6 @@ class AdminController extends Controller
         $data->discount_price = $request->dis_price;
         $data->quantity = $request->quantity;
        
-        // $imageName = time(). '_' . $request->image->getClientOriginalName();
         $imageName = time(). '_' . $request->image->getClientOriginalExtension();
         $request->image->move('product', $imageName);
 

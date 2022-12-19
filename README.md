@@ -10,5 +10,7 @@ php artisan key:generate
 php artisan serve(your website should be up in 127.0.0.1:8000)
 5.Open new command prompt and type npm run dev
 ```
-
+Account demo (Admin): 
+    + Username: hung@gmail.com
+    + Password: 12345678
 ### 21SE1

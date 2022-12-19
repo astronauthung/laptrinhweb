@@ -66,8 +66,6 @@
                 </div>
             </div>
             @endforeach
-
-
             <div class="mt-3 text-center" style="width: 300px; margin:auto;">
                 {!!$products->withQueryString()->links('pagination::bootstrap-5')!!}
             </div>
