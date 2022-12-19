@@ -118,9 +118,6 @@ class AdminController extends Controller
         $date->save();
 
         return redirect('view_category')->with('message', 'Category was added successfully');
-
-        
-
     }
 
 
@@ -200,7 +197,7 @@ class AdminController extends Controller
 
     //delete product function
     public function delete_product($id){
-
+        // Get the currently authenticated user's ID
         if (Auth::id()) {
 
             $usertype = Auth::user()->usertype;
@@ -265,8 +262,7 @@ class AdminController extends Controller
     //view all orders
     public function view_orders(){
 
-        
-
+    
         if (Auth::id()) {
 
             $usertype = Auth::user()->usertype;

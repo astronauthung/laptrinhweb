@@ -22,22 +22,17 @@
     <div class="wrapper">
         <!-- sidebar-header -->
         @include('admin.sidebar')
-
         <div class="main">
             <!-- header -->
             @include('admin.header')
             <main class="content">
                 <!-- body -->
                 <div class="container-fluid p-0">
-
                     <a style="float: right;" class="btn btn-primary mb-2" href="{{ url('add_product') }}">Add Product</a>
-
                     <h1 class="h3 mb-3 text-center"><strong>All Products</strong></h1>
-
                     <div class="col-12 d-flex">
                         <div class="card flex-fill" style="overflow-x: auto;">
                             <div class="card-header">
-
                                 <h5 class="card-title mb-0">Products</h5>
                             </div>
                             <table class="table table-hover my-0">
@@ -53,7 +48,6 @@
                                         <th>Action</th>
                                     </tr>
                                 </thead>
-
                                 <tbody>
                                     @foreach($products as $key => $product)
                                     <tr>
@@ -68,31 +62,22 @@
                                         <td class="">{{$product->discount_price}}</td>
                                         <td class="">
                                             <a href="{{url('update_product', $product->id)}}" class="btn btn-info">Edit</a>
-
                                             <a href="{{url('delete_product', $product->id)}}" class="btn btn-danger" onclick="return confirm('Do you want to delete this..?')">Delete</a>
                                         </td>
                                     </tr>
                                     @endforeach
                                 </tbody>
-
                             </table>
                         </div>
                     </div>
-
                 </div>
-
             </main>
-
             <footer class="footer">
                 <!-- footer -->
                 @include('admin.footer')
-
             </footer>
         </div>
     </div>
-
     <script src="admin/js/app.js"></script>
-
 </body>
-
 </html>
