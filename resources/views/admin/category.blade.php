@@ -12,7 +12,7 @@
 
     <title>Cranchies Stores - Admin</title>
 
-    <link rel="shortcut icon" href="{{ asset('admin/img/icons/icon-48x48.png') }}" />
+    <link rel="shortcut icon" href="{{ asset('admin/img/icons/favicon.png') }}" />
     <link href="{{ asset('admin/css/app.css') }}" rel="stylesheet">
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
@@ -51,29 +51,22 @@
                                         
                                     </tr>
                                 </thead>
-
                                 <tbody>
                                     @foreach($data as $key => $data)
-
                                         <tr>
                                             <td>{{ $key + 1}}</td>
                                             <td class="">{{$data->category_name}}</td>
                                             <td class="">
-                                                <a href="{{url('updateAllCategories', $data->id)}}" class="btn btn-info">Edit</a>
+                                                <a href="{{url('update_category', $data->id)}}" class="btn btn-info">Edit</a>
                                                 <a href="{{url('delete_category', $data->id)}}" class="btn btn-danger" onclick="return confirm('Do you want to delete this..?')">Delete</a>
                                             </td>
                                         </tr>
-
-                                    @endforeach
-                                    
+                                    @endforeach                                   
                                 </tbody>
-
                             </table>
                         </div>
                     </div>
-
                 </div>
-
             </main>
 
             <footer class="footer">

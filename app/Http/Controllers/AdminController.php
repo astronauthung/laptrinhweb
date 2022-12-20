@@ -119,19 +119,6 @@ class AdminController extends Controller
 
         return redirect('view_category')->with('message', 'Category was added successfully');
     }
-    //update category
-    public function updateAllCategories(Request $request, $id){
-            
-        $data = category::find($id);
-
-        $data->category_name = $request->category_name;
-
-        $data->save();
-
-        return redirect('view_category')->with('message', 'Category updated successfully');
-
-    }
-
     //delete category function
     public function delete_category($id){
 
