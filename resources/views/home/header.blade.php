@@ -2,8 +2,6 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg custom_nav-container ">
       <a class="navbar-brand" href="{{ url('/') }}">
-        {{-- <h2 style="font-size: 30px; font-family:'Montserrat', sans-serif"><span>Myron</span><span style="background: purple; color:white; padding:0 .2em; border-radius:4px; ">Stores</span></h2>
-                 --}}
         <img src="home/images/logo.svg" alt="">
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -12,29 +10,6 @@
       </button>
       <div></div>
       <div style="margin: 0 auto" id="navbarSupportedContent">
-        {{-- <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="{{ url('/') }}">Home <span class="sr-only">(current)</span></a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url('products') }}">Products</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="blog_list.html">Blog</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url('view_order') }}">Order</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url('admin_view') }}">Dashboard</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url('view_cart') }}">
-
-          </a>
-        </li> --}}
         <form class="form-inline">
           <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
             <i class="fa fa-search" aria-hidden="true"></i>
