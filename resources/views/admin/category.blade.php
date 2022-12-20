@@ -59,7 +59,7 @@
                                             <td>{{ $key + 1}}</td>
                                             <td class="">{{$data->category_name}}</td>
                                             <td class="">
-                                                <a href="#" class="btn btn-info">Edit</a>
+                                                <a href="{{url('updateAllCategories', $data->id)}}" class="btn btn-info">Edit</a>
                                                 <a href="{{url('delete_category', $data->id)}}" class="btn btn-danger" onclick="return confirm('Do you want to delete this..?')">Delete</a>
                                             </td>
                                         </tr>
